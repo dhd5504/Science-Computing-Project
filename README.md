@@ -3,7 +3,7 @@
           GROUP ASSIGNMENT REPORT
           SCIENTIFIC COMPUTATION
 
-    TOPIC: "THE HEAT TRANSFER EQUATION"
+    TOPIC: "2D-Heat-Equations"
 
     Course: Scientific Computation – IT4110
     Class Code: 147769
